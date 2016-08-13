@@ -1,7 +1,7 @@
 /*
  * Author: Pin Chu
- * PID   : A98041513
- * Due   : 3 Feburary 2016
+ * Class : CSE132A
+ * Due   : 3 Feburary
  * 
  * Description:
  * 
